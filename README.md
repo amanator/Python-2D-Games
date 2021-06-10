@@ -5,7 +5,7 @@ These are the projects which I have developed by myself during my B.Tech to get 
 
 Projects
 
-1. Space Combact Game(Python) - Before this project I have made a mini-project on file encrytion(which cleared my Python basics). I have made this project while I was learing pygame module. 
+1. Space Combat Game(Python) - Before this project I have made a mini-project on file encrytion(which cleared my Python basics). I have made this project while I was learing pygame module. 
 
 2. Brick Fall Game(Python) - This was my another project when I was learning Pygame. 
 
