@@ -1,5 +1,5 @@
-# Individual-Level-Projects
-Individual Projects(Moderate Level)
+
+ Projects
 
 These are the projects which I have developed by myself during my B.Tech to get knowledge of different languages.
 
